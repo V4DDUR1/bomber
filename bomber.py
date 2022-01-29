@@ -1,4 +1,4 @@
-python bomber1.pyimport requests
+import requests
 
 from requests.structures import CaseInsensitiveDict
 
